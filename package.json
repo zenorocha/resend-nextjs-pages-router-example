@@ -5,7 +5,7 @@
     "dev": "next dev"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "13.5.6",
     "react": "latest",
     "react-dom": "latest",
     "resend": "latest"
